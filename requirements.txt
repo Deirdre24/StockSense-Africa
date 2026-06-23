@@ -1,0 +1,8 @@
+streamlit
+pandas
+plotly
+groq
+supabase
+bcrypt
+python-dotenv
+openpyxl

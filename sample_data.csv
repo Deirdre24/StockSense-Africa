@@ -1,0 +1,16 @@
+date,product,quantity_sold,unit_price
+2026-01-01,Rice (50kg),5,450
+2026-01-01,Cooking Oil (5L),8,62
+2026-01-01,Sugar (2kg),12,28
+2026-01-02,Rice (50kg),3,450
+2026-01-02,Cooking Oil (5L),6,62
+2026-01-02,Sugar (2kg),10,28
+2026-01-03,Rice (50kg),7,450
+2026-01-03,Cooking Oil (5L),4,62
+2026-01-03,Sugar (2kg),15,28
+2026-01-04,Rice (50kg),2,450
+2026-01-04,Cooking Oil (5L),9,62
+2026-01-04,Sugar (2kg),8,28
+2026-01-05,Rice (50kg),6,450
+2026-01-05,Cooking Oil (5L),5,62
+2026-01-05,Sugar (2kg),11,28
