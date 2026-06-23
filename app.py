@@ -7,7 +7,7 @@ from agent import run_procurement_agent
 from dotenv import load_dotenv
 from login import show_login_page
 
-load_dotenv("apiKey.env")
+load_dotenv("config.env")
 
 # ---- AUTH GATE ----
 if "authenticated" not in st.session_state:
