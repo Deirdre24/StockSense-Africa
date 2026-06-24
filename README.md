@@ -129,4 +129,5 @@ This is a prototype/demo project built for showcasing AI-powered retail intellig
 
 ## 👨‍💻 Author
 
-Built by [Your Name]  
+Built by:  Deirdre G.Mmolotsa  
+Inquiries: dmmolotsa@gmail.com
