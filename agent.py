@@ -2,7 +2,7 @@ from groq import Groq
 import os
 from dotenv import load_dotenv
 
-load_dotenv("config.env")
+load_dotenv()
 
 def run_procurement_agent(inventory_df, suppliers: list, business_name: str) -> dict:
     """

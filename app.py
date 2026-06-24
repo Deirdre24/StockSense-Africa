@@ -7,7 +7,7 @@ from agent import run_procurement_agent
 from dotenv import load_dotenv
 from login import show_login_page
 
-load_dotenv("config.env")
+load_dotenv()
 
 # ---- AUTH GATE ----
 if "authenticated" not in st.session_state:
